@@ -11,12 +11,12 @@
 ## Demo Video
 
 <div style="margin: 24px 0 32px 0;">
-<a href="https://youtu.be/epca93qov_0" target="_blank">
-  <img src="https://img.youtube.com/vi/epca93qov_0/maxresdefault.jpg" alt="ClusterSage demo video" width="100%">
-</a>
+  <video controls width="100%" src="ClusterSage.mp4">
+    Your browser does not support the video tag. You can open ClusterSage.mp4 directly in the repository.
+  </video>
 </div>
 
-Click the preview above to watch the demo.
+Watch the local demo video above.
 
 ## Overview
 
